@@ -1,9 +1,3 @@
-<style>
-body, html {
-    background-color: #1a1b27;
-}
-
-</style>
 ### <span style="color: #FFFFFF;">Hi there</span> 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/laymont?label=laymont&logo=github&style=for-the-badge)](https://github.com/laymont?tab=followers)
