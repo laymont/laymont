@@ -1,4 +1,4 @@
-### <span style="color: #FFFFFF;">Hi there</span> 👋
+### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/laymont?label=laymont&logo=github&style=for-the-badge)](https://github.com/laymont?tab=followers)
 [![Twitter @samuelmdg](https://img.shields.io/twitter/follow/laymontarratia?label=laymontarratia&logo=twitter&style=for-the-badge)](https://twitter.com/laymontarratia)
@@ -6,21 +6,11 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/9eUik8sAB0j3lU9w4LwBBO)
 
 
-<div style="text-align: justify;">
-<a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laymont&show_icons=true&theme=tokyonight&card_width=180&?count_private=true&locale=es" alt="estadisiticas"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laymont&show_icons=true&theme=tokyonight&layout=compact&?count_private=true&locale=es" alt="lenguajes"/>
-</a>
+[![Laymont's GitHub stats](https://github-readme-stats.vercel.app/api?username=laymont&count_private=true&show_icons=true&locale=es)](https://github.com/laymont/github-readme-stats)
+[![Laymont's GitHub stast](https://github-readme-stats.vercel.app/api/top-langs/?username=laymont&show_icons=true&layout=compact&?count_private=true&locale=es)](https://github.com/laymont/github-readme-stats)
+[![Laymont's GitHub stast](https://github-readme-streak-stats.herokuapp.com?user=laymont&count_private=true&locale=es)](https://github.com/laymont/github-readme-stats)
 
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=laymont&theme=buefy-dark&count_private=true&locale=es" alt="otros"/>
-</a>
-
-</div>
-
-# 🚀 <span style="color: #FFFFFF;">Skills</span>
+# 🚀 Skills
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
