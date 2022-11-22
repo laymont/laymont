@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hola 👋
+
+Soy OutSourcing en el area de **IT** de varias compañias, también de un projecto denominado **G-Navi** y de igual forma me desempeño como **free lance**
+
+Mis tareas actuales son
+- [X] Desarrollar y Mantener [Shicontstand](https://github.com/laymont/Shicontstand)
+- [] Diseñar el sitio Web del Restaurant [Casa Rustica](https://casarustica.com.ve)
+- [] Diseñar el sitio Web de [FTA](https://grupoturismodealtura.com/) (Fundacion Turismo de Altura)
+- [] Re-Diseñar el sitio Web de [Desa Internacional](https://desainternacional.com/)
+  
+---
 
 [![GitHub followers](https://img.shields.io/github/followers/laymont?label=laymont&logo=github&style=for-the-badge)](https://github.com/laymont?tab=followers)
 [![Twitter @samuelmdg](https://img.shields.io/twitter/follow/laymontarratia?label=laymontarratia&logo=twitter&style=for-the-badge)](https://twitter.com/laymontarratia)
