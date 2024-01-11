@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy OutSourcing en el area de **IT** de varias compañias, también de un projecto denominado **G-Navi** y de igual forma me desempeño como **free lance**
+Desarrollador autodidacta, con mas de 10 años de experiencias, mi conocimientos y habilidades se centran en el desarrollo de aplicaciones webs. 
 
 ---
 
